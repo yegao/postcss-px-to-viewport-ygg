@@ -1,0 +1,37 @@
+{
+  "name": "postcss-px-to-viewport-ygg",
+  "description": "A CSS post-processor that converts px to viewport units (vw, vh, vmin, vmax).",
+  "version": "0.0.1",
+  "author": "yegao",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yegao/postcss-px-to-viewport-ygg.git"
+  },
+  "main": "index.js",
+  "keywords": [
+    "css",
+    "units",
+    "pixel",
+    "px",
+    "viewport",
+    "vw",
+    "vh",
+    "vmin",
+    "vmax",
+    "postcss",
+    "postcss-plugin"
+  ],
+  "dependencies": {
+    "object-assign": "^4.0.1",
+    "postcss": "^5.0.2"
+  },
+  "bugs": {
+    "url": "https://github.com/yegao/postcss-px-to-viewport-ygg/issues"
+  },
+  "homepage": "https://github.com/yegao/postcss-px-to-viewport-ygg#readme",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
